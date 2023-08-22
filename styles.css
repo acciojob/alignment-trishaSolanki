@@ -8,5 +8,8 @@
 }
 .center{
 	border:1px solid black;
+	border-collapse: 3collapse;
+	border:double;
 	width: 100%;
+	padding:1px;
 }
