@@ -1,15 +1,52 @@
 /*  your css code here. If applicable */
 .middle{
+    margin: auto;
+    width: 100%;
+}
+ 
+.center{
+    text-align: center;
+}
+ 
+.right{
+    text-align: right;
+}
+ 
+table{
+    border: 1px solid black;
+    border-spacing: 1px;
+}
+ 
+td{
+    padding: 1px;
+    border: 1px solid black;
+}
+ 
+.green{
+    background-color: green;
+	height:25px;
+}
+ 
+.blue{
+    background-color: blue;
+	height:25px;
+}
+
+#t-image{
+	width:0px;
+}
+td{
+	padding:1px;
 	border:1px solid black;
-	border:double;
-	border-collapse: collapse;
-	text-align:center;
-	width: 100%;
+}
+table{
+	border:1px solid black;
+	border-spacing:1px;
+}
+.right{
+	text-align:right;
 }
 .center{
-	border:1px solid black;
-	border-collapse: 3collapse;
-	border:double;
-	width: 100%;
-	padding:1px;
+	text-align:center;
+	
 }
